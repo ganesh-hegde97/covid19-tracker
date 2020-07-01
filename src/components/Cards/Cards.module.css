@@ -1,0 +1,33 @@
+.container {
+    margin: 50px 0;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+
+.card {
+    margin: 2% 4% !important;
+    background-color: rgb(32, 47, 61) !important;
+    color: white !important;
+}
+
+.infected {
+    border-top: 15px solid rgba(119, 0, 255, 0.7);
+}
+.numberInfected{
+    color: rgb(119, 0, 255);
+}
+
+.recovered {
+    border-top: 15px solid rgba(6, 121, 6, 0.7);
+}
+.numberRecovered { 
+    color: rgb(6, 121, 6);
+}
+
+.deaths {
+    border-top: 15px solid rgba(250, 39, 17, 0.7);
+}
+.numberDeaths {
+    color: rgb(250, 39, 17);
+}

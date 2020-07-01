@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(233, 228, 240);
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.image {
+    width: 570px;
+    margin: 50px 0 10px;
+}
